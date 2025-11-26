@@ -1,0 +1,16 @@
+IZVJEŠTAJ - PROJEKAT IZ SPA
+Radile: Anastasija Kopić i Valentina Subotić
+
+Tema: Statističko predviđanje mortaliteta i fertiliteta (zadatak 8)
+
+Na 3 uređaja smo imale probleme prilikom instalacije paketa potrebnih za fbprophet. Spyder nam je dosta puta prekidao sa radom pa smo morale raditi sve ispočetka.
+Zajedno smo rješavale probleme prilikom instalacije, koristile smo svakojake izvore za pomoć pri instalaciji.
+Kod smo takođe zajedno radile, nema ništa da se odvoji da smo radile posebno.
+Prilikom pokretanja koda, imale smo problema sa prikazom grafikona. Nije nam radilo šta god mijenjale u kodu pa smo to ostavile kao komentar.
+Dio ispisa su neke iteracije za koje ne znamo što se prikazuju, ali istraživajući u čemu je stvar smo saznale da je to uobičajeno prilikom radnje sa fbprophet-om.
+Kod pokrećemo preko drugog environment-a, pod nazivom 'okolina' koja je napravljenja prije skidanja paketa u Anaconda Prompt-u.
+
+Što se tiče pretrage informacija u vezi podataka mortaliteta fertiliteta, pored zavoda za statistiku (koji je jako siromašan) morale smo upotrijebiti i ostale izvore kako bi skupile sve potrebne podatke. Formule i način kako smo računale ćemo Vam pokazati na odbrani.
+
+U prilogu možete vidjeti csv i Excel fajlove u kojima se nalaze potrebni podaci na kojima su izvršena predviđanja.
+Kao rezultat koda dobijemo podatke predviđanje koristeći fbprophet i ARIMA modele.
